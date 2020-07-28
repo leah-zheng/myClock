@@ -1,5 +1,5 @@
-#⏰CLOCK⏰
+# ⏰CLOCK⏰
 
-###CSS+JS 
+### CSS+JS 
 
-###light/night mode
+### light/night mode
